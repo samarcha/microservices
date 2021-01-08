@@ -1,0 +1,5 @@
+com\esprit\microservice\PubliciteService.class
+com\esprit\microservice\PubliciteApplication.class
+com\esprit\microservice\PubliciteRepository.class
+com\esprit\microservice\Publicite.class
+com\esprit\microservice\PubliciteRestAPI.class
